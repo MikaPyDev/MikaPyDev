@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @MikaPyDev
-- 👀 I’m interested in supercars
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning monte carlo tree search
-
