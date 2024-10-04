@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @MikaPyDev
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning monte carlo tree search
+- 🏫 Studying econometrics and data science at the VU Amsterdam
+- 👀 I like to explore the possibilities of Artificial Intelligence
+- 🌱 Currently learning genetic algorithms
